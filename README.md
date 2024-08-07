@@ -1,12 +1,15 @@
 # [근로복지공단] 업무상질병판정서 추천 서비스
 🏅 **근로복지공단 연구원장상 수상** <br>
-<a href="https://comwel-recommend-service.streamlit.app/">행복근복 서비스 링크</a><br>
 > 🕒 `2023.11.01` - `12.31` <미래내일일경험><br>
-> 💻 프로젝트 기획  |  데이터 수집/정제 |  프론트/백엔드 개발 `팀장`
+> 📖 프로젝트 기획  |  데이터 수집/정제 |  프론트/백엔드 개발 `팀장`<br>
+> 💻 서비스 : https://comwel-recommend-service.streamlit.app/
 <br>
 <br>
+
+![근로복지공단](https://github.com/user-attachments/assets/0d4e5e62-ccb3-4a12-b081-dfefee7e3680)
+
 <br>
-![서비스화면](https://github.com/user-attachments/assets/38cb0ffa-311f-4778-8a9b-60f884a7195b)
+
 
 > #### ❓WHY
 - 기획배경 : 업무상 질병의 산재 처리를 위한 조사 기간은 전체 평균 162.6일 중 **57일 이상** 소요
