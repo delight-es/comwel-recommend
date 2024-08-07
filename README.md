@@ -4,8 +4,7 @@
 > 💻 프로젝트 기획  |  데이터 수집/정제 |  프론트/백엔드 개발 `팀장`
 <br>
 <br>
-
-![서비스화면](https://github.com/user-attachments/assets/38cb0ffa-311f-4778-8a9b-60f884a7195b)
+<br>
 
 > #### ❓WHY
 - 기획배경 : 업무상 질병의 산재 처리를 위한 조사 기간은 전체 평균 162.6일 중 **57일 이상** 소요
@@ -43,7 +42,13 @@
 
 > **개발 환경** :
   - PYTHON 3.9(언어), Mecab(단어사전), Stream-lit(웹), SVN(형상관리)
- 
+    - Streamlit (version): 1.37.1
+    - pandas (version): 2.0.0
+    - numpy (version): 1.24.2
+    - torch (version): 1.12.1+cu113
+    - transformers (version): 4.27.4
+    - scikit-learn (version): 1.2.2
+    - matplotlib (version): 3.7.1
 <br>
 <br>
 
