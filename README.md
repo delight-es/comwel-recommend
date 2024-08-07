@@ -6,6 +6,7 @@
 <br>
 <br>
 <br>
+![서비스화면](https://github.com/user-attachments/assets/38cb0ffa-311f-4778-8a9b-60f884a7195b)
 
 > #### ❓WHY
 - 기획배경 : 업무상 질병의 산재 처리를 위한 조사 기간은 전체 평균 162.6일 중 **57일 이상** 소요
