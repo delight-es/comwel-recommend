@@ -1,7 +1,7 @@
-Streamlit
-pandas
-numpy
-torch
-transformers
-scikit-learn
-matplotlib
+streamlit==1.37.1
+pandas==2.0.0
+numpy==1.24.2
+torch==1.12.1+cu113
+transformers==4.27.4
+scikit-learn==1.2.2
+matplotlib==3.7.1
